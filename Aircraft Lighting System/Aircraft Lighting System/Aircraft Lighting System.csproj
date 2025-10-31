@@ -10,8 +10,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Lights\" />
     <Folder Include="Backend\" />
+    <Folder Include="Lights\" />
   </ItemGroup>
 
 </Project>
