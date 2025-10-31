@@ -4,9 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aircraft_Lighting_System.Backend
+namespace AircraftLightsGUI
 {
-    internal class Backend_Placeholder
+    public class LogFile
     {
+        private string filepath = "";
+
+        void OpenFile()
+        {
+        
+        }
     }
 }
