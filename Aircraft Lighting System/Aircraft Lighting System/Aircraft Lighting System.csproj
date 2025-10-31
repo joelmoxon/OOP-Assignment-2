@@ -10,8 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Lights\" />
-    <Folder Include="Backend\" />
+    <Compile Include="GUI.cs %28Matthew add code to here%29" />
   </ItemGroup>
 
 </Project>
